@@ -1,3 +1,1 @@
-print("AzamatGainullin")
-
-print("Something added")
+print("Меняем все окончательно")
